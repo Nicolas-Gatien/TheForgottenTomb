@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 09a322766be82a046891bcfbe723f38f
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/SpikeDeath.unity
+    guid: f34aec1d05e8f3f4ab89f678f385a3ac
+  - enabled: 1
+    path: Assets/Scenes/RockDeath.unity
+    guid: bde12081d7f018647bfb72991280c988
+  - enabled: 1
+    path: Assets/Scenes/DeathScreen.unity
+    guid: 2eb16aafb1cb8204fa7e49eac9bcee46
+  - enabled: 1
+    path: Assets/Scenes/Controls Scene.unity
+    guid: 712860707a719264f930f0f4ad515130
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: 43cd92abba5a4cd4b9f1880fa791871c
+  m_configObjects: {}
